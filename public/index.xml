@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>溪月雪</title>
+    <link>http://example.org/</link>
+    <description>Recent content on 溪月雪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 23 Apr 2023 10:29:07 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>本地文件上传至 docker 容器</title>
+      <link>http://example.org/posts/upload-locale-file-to-container-of-docker/</link>
+      <pubDate>Sun, 23 Apr 2023 10:29:07 +0800</pubDate>
+      
+      <guid>http://example.org/posts/upload-locale-file-to-container-of-docker/</guid>
+      <description>docker cp 本地文件路径 ID全称:容器路径 </description>
+    </item>
+    
+  </channel>
+</rss>
