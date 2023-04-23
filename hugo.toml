@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://imaxue.github.io/'
 languageCode = 'zh-CN'
 title = '溪月雪'
 theme = 'ananke'
